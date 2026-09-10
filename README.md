@@ -5,8 +5,10 @@ and I care about tests that stay green and fast in CI.
 **Stack**
 Playwright, TypeScript, Node.js, REST API testing,
 GitHub Actions, Docker, Page Object Model, Allure.
+
 **What to look at first**- 
-playwright-framework  a full framework with fixtures, 
+
+playwright-framework a full framework with fixtures, 
 POM and CI- api-testing-suite     
 contract and status checks with APIRequestContext- 
 sdet-coding  100 interview programs, solved and explained
